@@ -1,0 +1,13 @@
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Release\DCore Websocket App.exe.config
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Release\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Release\DCore Websocket App.pdb
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Release\websocket-sharp.dll
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Release\websocket-sharp.xml
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.csprojAssemblyReference.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore_Websocket_App.Form1.resources
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore_Websocket_App.Properties.Resources.resources
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.csproj.GenerateResource.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.csproj.CoreCompileInputs.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.csproj.CopyComplete
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Release\DCore Websocket App.pdb

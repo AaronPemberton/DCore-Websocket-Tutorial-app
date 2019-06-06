@@ -1,0 +1,39 @@
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Form1.resources
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Properties.Resources.resources
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CoreCompileInputs.cache
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe.config
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.pdb
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csprojAssemblyReference.cache
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Form1.resources
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Properties.Resources.resources
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.GenerateResource.cache
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CoreCompileInputs.cache
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.pdb
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.dll
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.xml
+C:\Users\apemberton\Documents\CAD programming\Websocket App-20190605T164713Z-001\Websocket App\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CopyComplete
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe.config
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.pdb
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.dll
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.xml
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CopyComplete
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.exe
+C:\Users\aaron\source\repos\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.pdb
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe.config
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Debug\DCore Websocket App.pdb
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.dll
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\bin\Debug\websocket-sharp.xml
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csprojAssemblyReference.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Form1.resources
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore_Websocket_App.Properties.Resources.resources
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.GenerateResource.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CoreCompileInputs.cache
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.csproj.CopyComplete
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.exe
+C:\Users\apemberton\Documents\CAD programming\DCore Websocket App-20190606T123312Z-001\DCore Websocket App\DCore Websocket App\obj\Debug\DCore Websocket App.pdb
