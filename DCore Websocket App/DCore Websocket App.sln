@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCore Websocket App", "DCore Websocket App\DCore Websocket App.csproj", "{493F4086-6441-4F42-A4FE-B5FB340F09D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493F4086-6441-4F42-A4FE-B5FB340F09D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493F4086-6441-4F42-A4FE-B5FB340F09D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493F4086-6441-4F42-A4FE-B5FB340F09D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493F4086-6441-4F42-A4FE-B5FB340F09D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DDC7A3-55FD-4D64-B4C4-8128BE59986B}
+	EndGlobalSection
+EndGlobal
